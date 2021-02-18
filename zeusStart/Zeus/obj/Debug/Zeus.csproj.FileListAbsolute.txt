@@ -1,0 +1,10 @@
+C:\Users\lysan\source\repos\Zeus\Zeus\bin\Debug\DCQPKX.exe.config
+C:\Users\lysan\source\repos\Zeus\Zeus\bin\Debug\DCQPKX.exe
+C:\Users\lysan\source\repos\Zeus\Zeus\bin\Debug\DCQPKX.pdb
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\Zeus.csprojAssemblyReference.cache
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\Zeus.launcher.resources
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.cache
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\Zeus.csproj.CoreCompileInputs.cache
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\DCQPKX.exe
+C:\Users\lysan\source\repos\Zeus\Zeus\obj\Debug\DCQPKX.pdb
